@@ -51,9 +51,8 @@ public class ImportarExcel
           }
 
         }
-        System.out.println("Exito!");
-
       }
+      System.out.println("Exito!");
     }
     catch(FileNotFoundException e)
     {
